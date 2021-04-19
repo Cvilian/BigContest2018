@@ -2,7 +2,7 @@
 
 ![ex_screenshot](./title.png)
 
-GIST MLDL 2019 Fall final project (°ø½Ä ´ëÈ¸ Âü¼®Àº x)
+GIST MLDL 2019 Fall final project (ê³µì‹ ëŒ€íšŒ ì°¸ì„ì€ x)
 
 ## Description
 
